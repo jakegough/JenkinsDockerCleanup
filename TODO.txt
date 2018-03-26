@@ -1,0 +1,1 @@
+Look at a script like this to run cleanup on all nodes: https://gist.github.com/rb2k/8372402

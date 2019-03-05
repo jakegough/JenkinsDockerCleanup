@@ -10,4 +10,4 @@ helper.run('linux && make && docker', {
     stage ('Prune') {
         sh "scripts/docker_prune.sh"
     }
-}
+})
